@@ -10,4 +10,4 @@ This script helps beginners to get understand image processing with python.
 
 
 
- [image_processing.py]
+ [image_processing.py](https://github.com/OguzhanGok51/gluglu/tree/main/Image_processing)
