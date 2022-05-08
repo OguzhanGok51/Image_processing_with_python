@@ -12,4 +12,4 @@ This script helps beginners to get understand image processing with python.
 
 You need to install openCV first, then you need to install functions such as numpy,matplotlib, so that you can write your code. Because we use pixels in image processing,so we work with matrices.These functions are required for us to perform operations.
 
-https://github.com/OguzhanGok51/gluglu/blob/main/Image_processing/image_processing.py 
+[image_processing.py](OguzhanGok51/gluglu/blob/main/Image_processing/image_processing.py)
