@@ -6,7 +6,7 @@ These scripts helps beginners to get understand image processing with python.
 
 
 
-# Usage
+# Description
 
 
 
